@@ -134,3 +134,4 @@ plt.tight_layout()
 plt.show()
 
 
+df = pd.read_csv('ABADECIOCADA - Data.csv', header=1)
